@@ -1,1 +1,1 @@
-# Curr-culo-Lat-x
+curriculo latéx
